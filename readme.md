@@ -9,5 +9,6 @@ for github actions in office assignment - [github_actions_in_office](https://git
 
 for github actions take home assignment - [github_actions_take_home](https://github.com/livanshu-minfy/github_actions_take_home/blob/master/README.md)
 
+github take home workflow - [take_home_workflow](https://github.com/livanshu-minfy/github_actions_take_home/tree/master/.github/workflows)
 
 for docker assignment - [docker_assignment](https://github.com/livanshu-minfy/day-3-docker-advanced/blob/main/in%20office/readme.md)
